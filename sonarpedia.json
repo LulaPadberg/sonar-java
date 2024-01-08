@@ -1,0 +1,11 @@
+{
+  "rules-metadata-path": "./sonar-java-plugin/src/main/resources/org/sonar/l10n/java/rules/java",
+  "languages": [
+    "JAVA"
+  ],
+  "latest-update": "2023-11-24T15:20:38.530699Z",
+  "options": {
+    "no-language-in-filenames": true,
+    "preserve-filenames": false
+  }
+}
